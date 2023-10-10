@@ -2,6 +2,11 @@
   <div>
     kkkkkkkk
     <caixa />
+    <caixa />
+    <caixa />
+    <caixa />
+    <caixa />
+
   </div>
 </template>
 
@@ -11,6 +16,6 @@ export default{
 components: {caixa}
 }
 </script>
-<style lang="">
+<style>
 
 </style>
