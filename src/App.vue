@@ -1,21 +1,18 @@
 <template>
   <div>
-    kkkkkkkk
-    <caixa />
-    <caixa />
-    <caixa />
-    <caixa />
-    <caixa />
-
+    meu app 
+    <cartao />
   </div>
 </template>
 
 <script>
-import caixa from "./caixa.vue"
-export default{
-components: {caixa}
+import cartao from './components/cartao.vue';
+
+export default {
+  components: { cartao }
 }
 </script>
+
 <style>
 
 </style>
